@@ -1,5 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, welcome! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Control and Automation Engineering student at the Federal University of Minas Gerais. Throughout my academic journey, I have focused on the areas of robotics, perception, computer vision and other fields within automation and intelligent systems. I worked as an undergraduate research student in two laboratories: the Flight Simulation Laboratory and the Computer Vision and Robotics Laboratory (Verlab). In addition, I was part of the AVANT-UFMG competition team, which is dedicated to the development of autonomous drones. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am participating in an exchange program and pursuing part of my studies in Germany at Hochschule Schmalkalden.
+
