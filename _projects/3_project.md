@@ -2,8 +2,7 @@
 layout: page
 title: AVANT - Competition Team
 description: Competition Team focussed on UAVs
-img: assets/img/bandeira.jpeg
-redirect: https://unsplash.com
+img: assets/img/avant_logo.jpeg
 importance: 3
 category: work
 ---
