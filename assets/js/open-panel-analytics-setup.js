@@ -1,3 +1,5 @@
+/* prettier-ignore */
+
 window.op =
   window.op ||
   function (...args) {
