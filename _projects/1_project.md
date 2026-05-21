@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Assistance at Verlab
-description: with background image
+description: project
 img: assets/img/jackal.jpg
 importance: 1
 category: work
@@ -20,10 +20,16 @@ Research Assistance at Verlab
 </div>
 From August 2024 to September 2025, I participated as a scholarship student in a project called VAL – Lynx Autonomous Vehicle. The goal of the project was to develop, in partnership with industry, a prototype autonomous system for application in mining operations. Throughout the year, I worked on the integration of sensors such as LiDAR and IMU, both in terms of installation and data collection. I also worked on the development of our navigation stack and its integration using ROS2.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/segmentation.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 In addition, I created new environments by modeling them in Blender and exporting them to Gazebo for prototype testing.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/segmentation.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/blender.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

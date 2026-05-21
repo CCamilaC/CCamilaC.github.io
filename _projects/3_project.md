@@ -1,81 +1,36 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: AVANT - Competition Team
+description: Competition Team focussed on UAVs
+img: assets/img/bandeira.jpeg
 redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+From August 2022 to July 2024, I worked in a competition team focused on the development of unmanned aerial vehicles (UAVs) to compete in the Brazilian Robotics Competition, in the drone category, and in the international competition organized by the International Conference on Unmanned Aircraft Systems (ICUAS).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+When I joined the team, I was a freshman and participated in a six-month trainee program, during which I learned how to use the Linux environment, how the Robot Operating System (ROS) works, and its main functions. In addition, I was taught the core paradigms of navigation and path planning. After this training period, I joined the navigation team, where we focused our efforts on the ICUAS international competition. There, we achieved significant results, placing among the top 5 teams and being the only team from Latin America. This achievement demonstrated how dedication and effort can lead to outstanding results.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Afterward, I also joined the team’s management group as an Electronics Project Manager. In this role, I worked on organizing fundraising events to support the team financially. I also served as a representative of the project in meetings with the engineering school administration at the university and with the team’s academic advisor.
+
+This experience was certainly one of the most impactful in my academic formation, as it gave me the opportunity to engage with robotics and its wide range of applications. Additionally, it helped me develop resilience in a challenging environment, since the team did not have sufficient financial resources and we operated in a small room that could not accommodate all members, making development and execution of projects constantly demanding.
+
+Currently, the team is a two-time champion of the Brazilian Robotics Competition!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/pessoal_avant.jpeg" title="Research at Verlab 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bandeira.jpeg" title="Research at Verlab 2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+A small memory of what one of our motor tests was like 😄
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/test_motors.jpeg" title="Research at Verlab 1" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
