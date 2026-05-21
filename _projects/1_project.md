@@ -10,13 +10,6 @@ related_publications: true
 
 Research Assistance at Verlab
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/imagemVerlab.jpeg" title="Research at Verlab 1" class="img-fluid rounded z-depth-1" %}
@@ -31,9 +24,11 @@ In addition, I created new environments by modeling them in Blender and exportin
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/miniwaypoints.gif" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/segmentation.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+{% raw %}
 
 ```html
 <div class="row justify-content-sm-center">
