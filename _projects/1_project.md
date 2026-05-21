@@ -2,7 +2,7 @@
 layout: page
 title: Research Assistance at Verlab
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/jackal.jpg
 importance: 1
 category: work
 related_publications: true
@@ -27,18 +27,3 @@ In addition, I created new environments by modeling them in Blender and exportin
         {% include figure.liquid loading="eager" path="assets/img/segmentation.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
