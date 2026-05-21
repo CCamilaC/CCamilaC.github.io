@@ -1,6 +1,9 @@
 ---
 permalink: /assets/js/open-panel-analytics-setup.js
 ---
+
+/* prettier-ignore */
+
 window.op =
   window.op ||
   function (...args) {
