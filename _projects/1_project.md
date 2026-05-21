@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-Research assistance in Verlab 
+Research assistance in Verlab
 
     ---
     layout: page
