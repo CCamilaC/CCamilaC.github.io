@@ -5,7 +5,6 @@ description: project
 img: assets/img/old_drone.jpeg
 importance: 2
 category: work
-related_publications: true
 ---
 
 From January 2024 to July 2024, I worked on a project focused on detecting cracks and fractures for inspection at the campus of the Federal University of Minas Gerais, using an unmanned aerial vehicle at the Flight Simulation Laboratory.

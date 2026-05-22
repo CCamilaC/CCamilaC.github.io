@@ -4,7 +4,7 @@ title: ARIES Competition Team
 description: Mars exploratition robotics team
 img: assets/img/aries_space_logo.jpeg
 importance: 3
-category: fun
+category: work
 ---
 
 During my exchange program in Germany, I joined the Aries Space competition team, which is focused on robotics for Mars exploration. In this team, I worked on developing a computer vision stack, where I implemented a machine learning-based model that was trained for object detection.

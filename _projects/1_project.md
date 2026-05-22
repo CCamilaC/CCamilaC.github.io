@@ -5,7 +5,6 @@ description: project
 img: assets/img/jackal.jpg
 importance: 1
 category: work
-related_publications: true
 ---
 
 Research Assistance at Verlab
