@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - CCamilaC
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - CCamilaC/Real_Time_Automation_Project
+  - CCamilaC/UDP-RIP
+  - CCamilaC/yolo_seg_detc
+  - CCamilaC/Docker-Turtlebot3
