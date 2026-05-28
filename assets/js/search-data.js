@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -44,18 +44,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "projects-research-assistance-at-verlab",
+            },{id: "projects-research-assistance-at-verlab",
           title: 'Research Assistance at Verlab',
           description: "project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-research-assistance-in-a-drone-project",
-          title: 'Research Assistance in a drone project',
+            },},{id: "projects-research-assistance-in-the-flight-simulation-laboratory",
+          title: 'Research Assistance in the Flight Simulation Laboratory',
           description: "project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
