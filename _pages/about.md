@@ -6,7 +6,7 @@ subtitle: Student of Control and Automation Engineering.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: best_profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
 

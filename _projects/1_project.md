@@ -31,7 +31,7 @@ From August 2024 to September 2025, I participated as a scholarship student in a
     <iframe 
       width="100%" 
       height="315" 
-      src="https://youtu.be/_cTXg0qh7WQ"
+      src="https://www.youtube.com/embed/_cTXg0qh7WQ"
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
