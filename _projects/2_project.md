@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Assistance in a drone project
+title: Research Assistance in the Flight Simulation Laboratory
 description: project
 img: assets/img/old_drone.jpeg
 importance: 2
