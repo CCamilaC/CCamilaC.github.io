@@ -15,8 +15,24 @@ In parallel, I worked on the collection and analysis of data from an IMU, as wel
 
 This entire experience took place in a multicultural and diverse environment, which significantly contributed to the exchange of both technical and cultural knowledge.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/competition_team_aries.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center; justify-content: center;">
+
+  <!-- IMAGE -->
+  <div style="flex: 1; min-width: 300px;">
+    {% include figure.liquid path="assets/img/competition_team_aries.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+
+  <!-- YOUTUBE VIDEO -->
+  <div style="flex: 1; min-width: 300px;">
+    <iframe 
+      width="100%" 
+      height="315" 
+      src="https://www.youtube.com/embed/_E-_Ztp9_mI"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+
 </div>
