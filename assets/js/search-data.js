@@ -42,8 +42,8 @@ ninja.data = [{
           description: "project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-research-assistance-in-the-flight-simulation-laboratory",
-          title: 'Research Assistance in the Flight Simulation Laboratory',
+            },},{id: "projects-research-assistance-at-the-flight-simulation-laboratory",
+          title: 'Research Assistance at the Flight Simulation Laboratory',
           description: "project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
