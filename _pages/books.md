@@ -6,7 +6,7 @@ nav: false
 collection: books
 ---
 
-## Minha Playlist do Spotify
+## My playlist on Spotify
 
 I believe that musical taste says a lot about a person, so come get to know me a little through music!
 
