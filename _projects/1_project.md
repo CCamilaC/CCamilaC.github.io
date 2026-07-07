@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-Research Assistance at Verlab
+Undergraduate Research at Verlab
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
