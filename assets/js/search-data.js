@@ -37,8 +37,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "projects-research-assistance-at-verlab",
-          title: 'Research Assistance at Verlab',
+            },{id: "projects-undergraduate-research-at-verlab",
+          title: 'Undergraduate Research at Verlab',
           description: "project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
