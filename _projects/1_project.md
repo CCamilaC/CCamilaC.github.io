@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Assistance at Verlab
+title: Undergraduate Research at Verlab
 description: project
 img: assets/img/jackal.jpg
 importance: 1
