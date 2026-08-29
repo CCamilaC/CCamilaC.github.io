@@ -8,6 +8,15 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9L7Q460TF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q9L7Q460TF');
+</script>
 
 <!-- pages/projects.md -->
 <div class="projects">
