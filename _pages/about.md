@@ -18,6 +18,15 @@ social: true # includes social icons at the bottom of the page
 #scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 #limit: 5 # leave blank to include all the news in the `_news` folder
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9L7Q460TF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q9L7Q460TF');
+</script>
 
 Hello, welcome!
 

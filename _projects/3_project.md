@@ -6,6 +6,15 @@ img: assets/img/avant_logo.jpeg
 importance: 3
 category: work
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9L7Q460TF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q9L7Q460TF');
+</script>
 
 From August 2022 to July 2024, I worked in a competition team focused on the development of unmanned aerial vehicles (UAVs) to compete in the Brazilian Robotics Competition, in the drone category, and in the international competition organized by the International Conference on Unmanned Aircraft Systems (ICUAS).
 

@@ -6,6 +6,15 @@ img: assets/img/old_drone.jpeg
 importance: 2
 category: work
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9L7Q460TF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q9L7Q460TF');
+</script>
 
 From January 2024 to July 2024, I worked on a project focused on detecting cracks and fractures for inspection at the campus of the Federal University of Minas Gerais, using an unmanned aerial vehicle at the Flight Simulation Laboratory.
 

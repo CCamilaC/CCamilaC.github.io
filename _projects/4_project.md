@@ -6,6 +6,15 @@ img: assets/img/aries_space_logo.jpeg
 importance: 3
 category: work
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9L7Q460TF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q9L7Q460TF');
+</script>
 
 During my exchange program in Germany, I joined the Aries Space competition team, which is focused on robotics for Mars exploration. In this team, I worked on developing a computer vision stack, where I implemented a machine learning-based model that was trained for object detection.
 
