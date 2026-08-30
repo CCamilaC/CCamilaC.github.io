@@ -6,6 +6,7 @@ img: assets/img/old_drone.jpeg
 importance: 2
 category: work
 ---
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9L7Q460TF"></script>
 <script>

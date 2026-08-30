@@ -8,6 +8,7 @@ category: work
 ---
 
 Undergraduate Research at Verlab
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q9L7Q460TF"></script>
 <script>
